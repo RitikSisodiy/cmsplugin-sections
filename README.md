@@ -1,4 +1,4 @@
-cmsplugin-sections
+cmsplugin-sections thanks for the idea
 ==================
 
 This is a plugin "system" (really just two) for making "single-page scroller"
